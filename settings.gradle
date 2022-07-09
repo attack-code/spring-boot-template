@@ -1,0 +1,5 @@
+rootProject.setName("spring-boot-template")
+
+include(":hello-test")
+include(":hello-quickstart")
+
